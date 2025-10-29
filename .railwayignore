@@ -1,0 +1,8 @@
+.git
+node_modules
+.env
+.env.local
+*.log
+dist
+check-*.mjs
+check-*.js
